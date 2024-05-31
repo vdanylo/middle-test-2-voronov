@@ -1,1 +1,1 @@
-"# middle-test-2-voronov" 
+# <div align="center">Middle Test - 2</div>
